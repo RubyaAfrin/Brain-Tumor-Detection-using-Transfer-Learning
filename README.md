@@ -1,6 +1,6 @@
 # BrainTumorDL
 
-This repository contains several deep learning techniques for brain tumor detection using MRI images.
+This repository contains several transfer learning techniques for brain tumor detection using MRI images.
 
 The dataset can be found [here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection).
 
